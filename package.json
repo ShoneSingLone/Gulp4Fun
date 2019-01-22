@@ -1,0 +1,22 @@
+{
+  "name": "gulptask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ShoneSingLone",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "http-proxy-middleware": "^0.19.1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jquery": "^3.3.1",
+    "requirejs": "^2.3.6",
+    "vue": "^2.5.22"
+  }
+}
