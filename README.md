@@ -1,9 +1,23 @@
-# Gulp
+# 我还是觉得RequireJS好用
 
->监听文件变动
->[chokidar](https://www.npmjs.com/package/chokidar)
+## 背景
+## 需要解决的问题
+## 要达到的效果
+## 具体做法
+## 不足与改进
+
+---
+>[chokidar监听文件变动](https://www.npmjs.com/package/chokidar)
+
 >[node-glob](https://github.com/isaacs/node-glob)
+
 >[http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
+
+>[AMD, CMD, CommonJS和UMD](https://segmentfault.com/a/1190000004873947)
+
+>[关于CommonJS、AMD、CMD、UMD说明](https://segmentfault.com/a/1190000006232697)
+
+---
 
 ## 起步
 
