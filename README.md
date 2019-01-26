@@ -17,17 +17,20 @@
 
 >[关于CommonJS、AMD、CMD、UMD说明](https://segmentfault.com/a/1190000006232697)
 
+>[关于CommonJS、AMD、CMD、UMD说明](http://www.ydcss.com/archives/94)
 ---
 
 ## 起步
 
 ```bash
-npm install --global gulp
-npm install --save-dev gulp
-```
-
-## 拥有实时重载（live-reloading）和 CSS 注入的服务器
-
-```js
-npm install --save-dev browser-sync
+npm i --global gulp
+npm i -D gulp
+npm i -D gulp-sass gulp-postcss autoprefixer
+npm i -D babel-preset-es2015
+npm i -D @babel/core @babel/cli
+npm i -D gulp-babel
+npm i -D @babel/preset-env
+npm i -D eslint-plugin-html
+# 拥有实时重载（live-reloading）和 CSS 注入的服务器
+npm i -D browser-sync
 ```

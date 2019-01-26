@@ -1,0 +1,17 @@
+
+.layui-form-pane {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(cyan, 225deg magenta, 145deg yellow);
+  .layui-form-label {
+    padding: 0;
+    width: 110px;
+    white-space: normal;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: visible;
+  }
+}
